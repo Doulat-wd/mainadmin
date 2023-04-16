@@ -1,0 +1,50 @@
+#SingleUserInnerDiv{
+    display: flex;
+width: auto;
+align-items: flex-end;
+background-color: white;
+border: 2px solid #ff8b2c;
+padding: 20px;
+flex-wrap: wrap;
+}
+#ImageSectionUser{
+border: 1px solid #ff8b2c;
+padding: 5px;
+}
+#ImageSectionUser>img{
+    width: 220px;
+    height: 250px;
+}
+#headingsectionData{
+    margin-left: 10px;
+}
+.Headingdata{
+    color: black;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    align-self: flex-end;
+}
+#statusSectionuser{
+    width: 100%;
+    padding: 10px;
+    background-color: rgb(224, 221, 221);
+margin-top: 10px;
+display: flex;
+justify-content: space-between;
+border-radius: 5px;
+}
+#statusSectionuser>span{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+#UserPendingApprovesection{
+    margin-top: 10px;
+border-radius: 5px;
+width: 100%;
+    padding: 10px;
+    background-color: rgb(224, 221, 221);
+}
+#UserPendingApprovesection>h1{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}

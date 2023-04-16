@@ -1,0 +1,21 @@
+#SideMainDiv{
+    width: 17%;
+    height: 100vh;
+    position: fixed;
+    top: 0%;
+    background:linear-gradient(to right,#000000,#2D3436);
+    padding: 20px;
+}
+#SidebarLinks{
+    margin-top: 50px;
+}
+#SidebarLinks>h1{
+    font-size: 20px;
+color: white;
+margin-top: 20px;
+cursor: pointer;
+font-family: 'Times New Roman', Times, serif;
+}
+#SidebarLinks>h1:hover{
+    text-decoration: underline;
+}

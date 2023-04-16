@@ -1,0 +1,23 @@
+#NavbarMainSection{
+display: flex;
+justify-content: space-between;
+/* background-color: white; */
+padding: 5px;
+}
+#NavbarFilleddiv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-right: 20px;
+}
+#NavbarFilleddiv>img{
+    width: 60px;
+    height: 60px;
+    border: 1px solid #ff8b2c;
+}
+#NavbarFilleddiv>h1{
+    font-size: 30px;
+    margin-right: 10px;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
